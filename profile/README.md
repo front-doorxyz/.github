@@ -5,6 +5,7 @@ The Recruitment ecosystem is highly fragmented, participants have conflicting in
 Deepen the talent pools that hiring entities can access
 Enable recruitment firms to reduce wasted effort and increase client satisfaction
 Enable individuals and community leads to refer-to-earn from their professional networks Front Door uses Web3 tools and technology to solve a Web2 human coordination problem with a huge size of prize.
+
 We are looking for Development Partners to Beta Test the Application and give us feedback for improvement. If your interested in doing so please reach out to Thomas@Front-Door.xyz
 
 Problem
@@ -12,10 +13,12 @@ A few key factors block scalable cooperation within the Recruitment ecosystem, r
 
 Need for Trust: you give your value up front, having to trust the other party for payment, and employers need to trust the quality of referral.
 Lack of Transparency: referrals you make, whether you’re a professional recruiter, an individual candidate, or referring a friend, feel like they go into a black box and it can be hard to know what (if anything) happened.
+
 Reputation Locus: if you collaborate with another network participant, you build their reputation and not your own. A painful Catch 22.
 Ephemeral Reputation: it’s hard to tangibly demonstrate your value, so you’re only as good as your last referral, or your personal brand on social.
 Poor Incentive Structures: individuals referring someone from their personal network carry higher reputational risk but with 10x lower rewards.
 Solution
+
 We are building a transparent referral system. We believe that as the Web3 world brings opportunities to each and every individual, Front Door can unlock incentive mechanisms that ensure quality of the jobs being posted & quality of candidates being hired through our platform. Our solution involves 3 user personas:
 
 Companies -- Posting jobs and hiring candidates. Providing the recruitment bounty to incentivise referrals
@@ -41,6 +44,7 @@ Referrer Share -- 65%
 Referrers with an interviewed candidate -- 5%
 Candidate Share -- 10%
 Front Door Share -- 20%
+
 Bounties are fairly distributed to the key stakeholders to incentivise productive behavior and encourage broad adoption. [Future Scope] -- We plan to introduce scoring mechanisms to add more transparency. Each persona Referrer, Company, Candidate will have an on Chain Score. This Score can be used to verify the authenticity of stakeholders.
 
 OH SNAP!
