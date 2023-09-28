@@ -1,5 +1,6 @@
 Front-Door
 Introduction
+
 The Recruitment ecosystem is highly fragmented, participants have conflicting incentives, and collaboration is fraught with friction. Improved collaboration would:
 
 Deepen the talent pools that hiring entities can access
